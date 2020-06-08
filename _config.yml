@@ -1,18 +1,18 @@
 # Site settings
 title: 王星
-SEOTitle: 王星的博客 | BY Blog
+SEOTitle: 王星的博客 | Wang
 header-img: /img/avatar-g.jpg 
 email: wangxingstudy@163.com
 description: "本人所整理的文档"
 keyword: "JAVA"
 url: "http://wangxingman.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+#github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "一个学习的过程！"
-sidebar-avatar: /img/avatar-g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+#sidebar-avatar: /img/avatar-g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
